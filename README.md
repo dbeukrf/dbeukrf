@@ -1,4 +1,4 @@
-### Helloo!
+### Hello!
 My name is Diego. I am a recent Monash graduate getting into ML and AI engineering, who enjoys turning research ideas into usable software. My current work focuses on LLM applications and ML pipelines.
 
 #### Key Skills
