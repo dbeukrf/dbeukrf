@@ -1,16 +1,16 @@
 ### Hello!
-My name is Diego. I am a recent Monash graduate getting into ML and AI engineering, who enjoys turning research ideas into usable software. My current work focuses on LLM applications and ML pipelines.
+My name is Diego, a recent Monash University graduate who enjoys turning research ideas into practical software solutions. I currently work as a Research Assistant in the Biomedical Imaging Analytics Lab at [Monash University][Monash], where I contribute to research and development in AI and biomedical imaging.
 
 #### Key Skills
 - [Deep learning][DL], [Computer vision][CV], [Large language models][LLM], [MLOps][MLOps], etc.
 - Programming languages: Python, SQL, JavaScript, Java
-- Specialisations: LLM applications & ML pipelines
+- Specialisations: LLM applications, ML pipelines, applied AI systems
 
 
 #### Current Activities
 - Researcher and developer based in Melbourne.
-- Recent Graduate of Monash University.
-- Actively exploring advanced research and professional opportunities in AI/ML.
+- Research Assistant at Monash University ([Biomedical Imaging Analytics Lab][BMI])
+- Exploring advanced research and professional opportunities in AI and machine learning.
 
 #### Previous Experience
 - Tech Infrastructure Project Management Intern at [Coles Group][ColesGroup].
@@ -98,4 +98,6 @@ Please feel free to reach out on LinkedIn or Email, I’m always open to collabo
 [Monash]: https://www.monash.edu/
 [ColesGroup]: https://www.colesgroup.com.au/home/
 [RMIT]: https://www.rmit.edu.au/
+[Monash]: https://www.monash.edu/
+[BMI]: https://www.monash.edu/researchinfrastructure/mbi
 
