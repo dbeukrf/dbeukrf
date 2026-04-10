@@ -1,6 +1,8 @@
 ### Hello!
 My name is Diego, a recent Monash University graduate who enjoys turning research ideas into practical software solutions. I currently work as a Research Assistant in the Biomedical Imaging Analytics Lab at [Monash University][Monash], where I contribute to research and development in AI and biomedical imaging.
 
+My interests include deep learning, computer vision, and large language model applications, particularly for building practical AI systems and research-driven software.
+
 #### Key Skills
 - [Deep learning][DL], [Computer vision][CV], [Large language models][LLM], [MLOps][MLOps], etc.
 - Programming languages: Python, SQL, JavaScript, Java
